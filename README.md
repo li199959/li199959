@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**li199959/li199959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Electronic Science, Beijing University of Posts and Telecommunications
